@@ -17,8 +17,7 @@ That is the spirit of this workflow:
 - elevate team performance
 - turn vision into trophies
 
-This repository is not just about AI automation.  
-It is about **codifying transformation expertise into an AI-assisted workflow** that helps diagnose systemic problems, guide interventions, support leadership, and accelerate delivery with quality and direction.
+This repository is about **codifying transformation expertise into an AI-assisted workflow** that helps diagnose systemic problems, guide interventions, support leadership, and accelerate delivery with quality and direction.
 
 ---
 
