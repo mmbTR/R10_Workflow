@@ -2,7 +2,7 @@
 
 **R10_Workflow** is an AI-powered operating system for institutional change, delivery acceleration, and leadership decision-making in complex organizations.
 
-Like a true number 10, this repository exists to connect **vision, flow, execution, and influence** — turning complexity into coordinated movement, better decisions, and real outcomes.
+Like a true number 10, this repository exists to connect **vision, flow, execution, and influence** | turning complexity into coordinated movement, better decisions, and real outcomes.
 
 ## Why R10
 
